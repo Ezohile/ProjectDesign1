@@ -389,7 +389,7 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  NumberOfJumps: 3
+  NumberOfJumps: 2
   JumpHeight: 3
   JumpRestrictions: 2
   ResetCameraOffsetOnJump: 0
