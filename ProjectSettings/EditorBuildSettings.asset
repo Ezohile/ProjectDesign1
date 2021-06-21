@@ -222,18 +222,18 @@ EditorBuildSettings:
     path: Assets/Scenes/KeyTest/FirstLevel.unity
     guid: faf961bcea830d14d9e7a732562bd1e0
   - enabled: 1
-    path: Assets/Scenes/Level_3.unity
+    path: Assets/Scenes/Pretzel_Quest/Level_3.unity
     guid: 3c1a72930a7056744b6d3e26f272cabe
   - enabled: 1
-    path: Assets/Scenes/Level_2.unity
+    path: Assets/Scenes/Pretzel_Quest/Level_2.unity
     guid: 8ab44fd7435de2f4f8945f52595205cb
   - enabled: 1
     path: 
     guid: e33a7e3a0f790b5419880272c55eefa0
   - enabled: 1
-    path: Assets/Scenes/Level_4.unity
+    path: Assets/Scenes/Pretzel_Quest/Level_4.unity
     guid: 896d627d16391274592bbd0c0dc7ef28
   - enabled: 1
-    path: Assets/Scenes/Level_1.unity
+    path: Assets/Scenes/Pretzel_Quest/Level_1.unity
     guid: f13f9636cdb34834bba775427fb92d2b
   m_configObjects: {}
