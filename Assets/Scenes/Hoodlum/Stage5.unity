@@ -1327,7 +1327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerPrefabs:
-  - {fileID: 11485350, guid: 27632f1d00267dc428a3275cef92a710, type: 3}
+  - {fileID: 114473069959786316, guid: e331e3ce685ec0e4fbf9911eadbe91a3, type: 3}
   AutoAttributePlayerIDs: 1
   SceneCharacters: []
   DebugSpawn: {fileID: 0}
@@ -5673,7 +5673,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 8
+      m_TileSpriteIndex: 9
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -6263,7 +6263,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 6
+      m_TileSpriteIndex: 8
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -12273,7 +12273,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 3
+      m_TileSpriteIndex: 6
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -12880,20 +12880,20 @@ Tilemap:
     m_Data: {fileID: 21300178, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
   - m_RefCount: 58
     m_Data: {fileID: 21300166, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 21300164, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 21300168, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
   - m_RefCount: 10
     m_Data: {fileID: 21300180, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: 21300174, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
+    m_Data: {fileID: 21300164, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
   - m_RefCount: 58
     m_Data: {fileID: 21300172, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
   - m_RefCount: 1
+    m_Data: {fileID: 21300174, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
+  - m_RefCount: 1
     m_Data: {fileID: 21300170, guid: c896ec8f9ab9e458284e703b0e96c024, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 720
     m_Data:
@@ -21956,6 +21956,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -4807899486352313374, guid: a63e1a89b27b3304ab7daf1ceb51de75,
+        type: 3}
+      propertyPath: AlwaysFlying
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4913427545643347463, guid: a63e1a89b27b3304ab7daf1ceb51de75,
         type: 3}
       propertyPath: m_Enabled
