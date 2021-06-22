@@ -1810,7 +1810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerPrefabs:
-  - {fileID: 11485350, guid: 67141e84a5e3c53479438e658a8c7c5c, type: 3}
+  - {fileID: 11485350, guid: 27632f1d00267dc428a3275cef92a710, type: 3}
   AutoAttributePlayerIDs: 1
   SceneCharacters: []
   DebugSpawn: {fileID: 0}
@@ -8788,6 +8788,11 @@ PrefabInstance:
         type: 3}
       propertyPath: LevelName
       value: Stage3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2887783654069944453, guid: 1c41c2923569da9479860cac5fb3731f,
+        type: 3}
+      propertyPath: PointOfEntryIndex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4227901553022858966, guid: 1c41c2923569da9479860cac5fb3731f,
         type: 3}

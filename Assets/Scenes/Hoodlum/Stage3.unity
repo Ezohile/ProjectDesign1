@@ -1411,7 +1411,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerPrefabs:
-  - {fileID: 11485350, guid: 67141e84a5e3c53479438e658a8c7c5c, type: 3}
+  - {fileID: 11485350, guid: 27632f1d00267dc428a3275cef92a710, type: 3}
   AutoAttributePlayerIDs: 1
   SceneCharacters: []
   DebugSpawn: {fileID: 0}
@@ -3386,6 +3386,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: DroneEnemy
       objectReference: {fileID: 0}
+    - target: {fileID: 5141337100333339165, guid: a63e1a89b27b3304ab7daf1ceb51de75,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 307626ffcacd02a43bae9e182aae15d7,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a63e1a89b27b3304ab7daf1ceb51de75, type: 3}
 --- !u!1 &514284312
@@ -28739,7 +28745,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FacingDirection: 1
   ForceAssignation: 0
-  CheckPointOrder: 0
+  CheckPointOrder: 1
 --- !u!61 &1369167460
 BoxCollider2D:
   m_ObjectHideFlags: 0
