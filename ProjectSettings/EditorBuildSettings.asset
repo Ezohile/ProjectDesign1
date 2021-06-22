@@ -240,18 +240,18 @@ EditorBuildSettings:
     path: 
     guid: 7827d337b842ff341b7af8500848374b
   - enabled: 1
-    path: Assets/Scenes/Stage1.unity
+    path: Assets/Scenes/Hoodlum/Stage1.unity
     guid: a5e19f79815d298468b0ab8e4c666868
   - enabled: 1
-    path: Assets/Scenes/Stage3.unity
+    path: Assets/Scenes/Hoodlum/Stage3.unity
     guid: 7c17a73eaa6479345acc00a76694589f
   - enabled: 1
-    path: Assets/Scenes/Stage4.unity
+    path: Assets/Scenes/Hoodlum/Stage4.unity
     guid: 623bfe0618682c248a8d37e1fce1c3b6
   - enabled: 1
-    path: Assets/Scenes/Stage5.unity
+    path: Assets/Scenes/Hoodlum/Stage5.unity
     guid: 67e5aff951cc3124e80401efca5b7c76
   - enabled: 1
-    path: Assets/Scenes/Stage2.unity
+    path: Assets/Scenes/Hoodlum/Stage2.unity
     guid: e8ee8dec36e53614a8ce2b890f34c7a2
   m_configObjects: {}
