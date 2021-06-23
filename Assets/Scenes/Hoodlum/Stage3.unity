@@ -3436,7 +3436,7 @@ PrefabInstance:
     - target: {fileID: 5018703646771350325, guid: a63e1a89b27b3304ab7daf1ceb51de75,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.4049494
+      value: 2.404949
       objectReference: {fileID: 0}
     - target: {fileID: 5018703646771350325, guid: a63e1a89b27b3304ab7daf1ceb51de75,
         type: 3}
@@ -28958,6 +28958,31 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1324547754 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5020726048822647199, guid: a63e1a89b27b3304ab7daf1ceb51de75,
+    type: 3}
+  m_PrefabInstance: {fileID: 511331666}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1324547778
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1324547754}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: aab6ddd771b4e2f40a482f8209c685ff, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1332629029
 GameObject:
   m_ObjectHideFlags: 0
