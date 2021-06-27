@@ -1446,7 +1446,10 @@ MonoBehaviour:
   CheckpointAttributionDirection: 0
   CurrentCheckPoint: {fileID: 0}
   PointsOfEntryLegacy: []
-  PointsOfEntry: []
+  PointsOfEntry:
+  - Name: 
+    Position: {fileID: 283564960}
+    EntryFeedback: {fileID: 0}
   IntroFadeDuration: 1
   OutroFadeDuration: 1
   FaderID: 0
@@ -1820,7 +1823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 923a01d66c4618446abb082250646478, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FacingDirection: 1
+  FacingDirection: 0
   ForceAssignation: 0
   CheckPointOrder: 0
 --- !u!61 &283564959
@@ -1847,7 +1850,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 9.87}
   m_EdgeRadius: 0
 --- !u!4 &283564960
 Transform:
@@ -1857,7 +1860,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 283564957}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -60.5, y: -5.81, z: 0}
+  m_LocalPosition: {x: -60.16, y: -2.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

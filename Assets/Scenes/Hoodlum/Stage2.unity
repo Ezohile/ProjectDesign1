@@ -1818,7 +1818,16 @@ MonoBehaviour:
   CheckpointAttributionDirection: 0
   CurrentCheckPoint: {fileID: 0}
   PointsOfEntryLegacy: []
-  PointsOfEntry: []
+  PointsOfEntry:
+  - Name: 
+    Position: {fileID: 999457173}
+    EntryFeedback: {fileID: 0}
+  - Name: 
+    Position: {fileID: 983684021}
+    EntryFeedback: {fileID: 0}
+  - Name: 
+    Position: {fileID: 608863307}
+    EntryFeedback: {fileID: 0}
   IntroFadeDuration: 1
   OutroFadeDuration: 1
   FaderID: 0
@@ -8792,7 +8801,7 @@ PrefabInstance:
     - target: {fileID: 2887783654069944453, guid: 1c41c2923569da9479860cac5fb3731f,
         type: 3}
       propertyPath: PointOfEntryIndex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4227901553022858966, guid: 1c41c2923569da9479860cac5fb3731f,
         type: 3}

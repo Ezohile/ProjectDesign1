@@ -1476,7 +1476,13 @@ MonoBehaviour:
   CheckpointAttributionDirection: 0
   CurrentCheckPoint: {fileID: 0}
   PointsOfEntryLegacy: []
-  PointsOfEntry: []
+  PointsOfEntry:
+  - Name: 
+    Position: {fileID: 1369167461}
+    EntryFeedback: {fileID: 0}
+  - Name: 
+    Position: {fileID: 1614479250}
+    EntryFeedback: {fileID: 0}
   IntroFadeDuration: 1
   OutroFadeDuration: 1
   FaderID: 0
@@ -2009,6 +2015,11 @@ PrefabInstance:
       propertyPath: LevelName
       value: Stage2
       objectReference: {fileID: 0}
+    - target: {fileID: 2887783654069944453, guid: 1c41c2923569da9479860cac5fb3731f,
+        type: 3}
+      propertyPath: PointOfEntryIndex
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4227901553022858966, guid: 1c41c2923569da9479860cac5fb3731f,
         type: 3}
       propertyPath: m_RootOrder
@@ -2087,6 +2098,11 @@ PrefabInstance:
         type: 3}
       propertyPath: LevelName
       value: Stage5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2887783654069944453, guid: 1c41c2923569da9479860cac5fb3731f,
+        type: 3}
+      propertyPath: PointOfEntryIndex
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4227901553022858966, guid: 1c41c2923569da9479860cac5fb3731f,
         type: 3}
@@ -15861,7 +15877,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -29331,7 +29347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FacingDirection: 1
   ForceAssignation: 0
-  CheckPointOrder: 1
+  CheckPointOrder: 0
 --- !u!61 &1369167460
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29345,7 +29361,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.73, y: 0.45}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -29356,7 +29372,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.45, y: 3.11}
   m_EdgeRadius: 0
 --- !u!4 &1369167461
 Transform:
@@ -30345,7 +30361,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8175836863788021755, guid: e9017c2e70456314b8263e0020ce69b5,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
