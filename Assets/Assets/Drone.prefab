@@ -232,8 +232,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentHealth: 0
   TemporaryInvulnerable: 0
-  InitialHealth: 100
-  MaximumHealth: 100
+  InitialHealth: 30
+  MaximumHealth: 30
   Invulnerable: 0
   DamageFeedbacks: {fileID: 839190404745338104}
   FlickerSpriteOnHit: 1
@@ -319,7 +319,7 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  InitialWeapon: {fileID: 114000010078180980, guid: c061427043f064e3e8034c5f6499c9e6,
+  InitialWeapon: {fileID: 114000010078180980, guid: 95e6aa934734c9d4babf1f5aeda92764,
     type: 3}
   CanPickupWeapons: 1
   WeaponAttachment: {fileID: 0}
