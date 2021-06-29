@@ -1515,8 +1515,8 @@ MonoBehaviour:
       m_RotationOrder: 4
   RespawnDelay: 2
   LevelBounds:
-    m_Center: {x: 9, y: 1.39, z: 0}
-    m_Extent: {x: 95.8, y: 14.89, z: 5}
+    m_Center: {x: -60, y: 3.6, z: 0}
+    m_Extent: {x: 26.43, y: 11.2, z: 5}
   ConvertToColliderBoundsButton: 0
   LoadingSceneMode: 1
   LoadingSceneName: LoadingScreen
@@ -5071,7 +5071,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 6
-      m_TileSpriteIndex: 8
+      m_TileSpriteIndex: 13
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -11450,9 +11450,8 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 2555264028411943703, guid: 8e175d43800f84342945c0e09532aeaa,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 2
     m_Data: {fileID: -8375208075410551265, guid: 8e175d43800f84342945c0e09532aeaa,
       type: 3}
@@ -11464,8 +11463,9 @@ Tilemap:
   - m_RefCount: 50
     m_Data: {fileID: 3714187306343432771, guid: 8e175d43800f84342945c0e09532aeaa,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 2555264028411943703, guid: 8e175d43800f84342945c0e09532aeaa,
+      type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 1813696664040749766, guid: 8e175d43800f84342945c0e09532aeaa,
       type: 3}
@@ -31162,7 +31162,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1735065276}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -72.93, y: 1.13, z: 0}
+  m_LocalPosition: {x: -59.2, y: 0.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -32413,7 +32413,7 @@ PrefabInstance:
     - target: {fileID: 5018703646771350325, guid: a63e1a89b27b3304ab7daf1ceb51de75,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -39.23
+      value: -38.68
       objectReference: {fileID: 0}
     - target: {fileID: 5018703646771350325, guid: a63e1a89b27b3304ab7daf1ceb51de75,
         type: 3}
