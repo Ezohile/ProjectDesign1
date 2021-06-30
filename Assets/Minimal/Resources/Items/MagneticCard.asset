@@ -26,7 +26,7 @@ MonoBehaviour:
   ShortDescription: It looks like it opens stuff.
   Description: A magnetic card that can open any door.
   Icon: {fileID: 21300000, guid: 039db7043a2588e46a29c6f600a0ff7f, type: 3}
-  Prefab: {fileID: 1733703776698432, guid: 7374ceb9f0821d644a437d55dbe8667c, type: 3}
+  Prefab: {fileID: 1733703776698432, guid: c6f2b08be0a0cbe419b45a6bce7096d9, type: 3}
   DropProperties:
     Shape: 0
     NormalToSpawnPlane: {x: 0, y: 1, z: 0}
