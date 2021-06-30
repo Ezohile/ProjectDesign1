@@ -23,8 +23,8 @@ MonoBehaviour:
   CanSwapObject: 1
   Quantity: 1
   ItemName: CrookPenny
-  ShortDescription: Money for nothing
-  Description: A currency used on the black market
+  ShortDescription: Money for nothing.
+  Description: A currency used on the black market.
   Icon: {fileID: 21300000, guid: 9302def22937f5341adfe65ceade260e, type: 3}
   Prefab: {fileID: 1472130053336478, guid: 035b1ce013449bd47bbe1ab049abe0e6, type: 3}
   DropProperties:
